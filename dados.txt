@@ -1,0 +1,4 @@
+usuario: admin, 1234
+usuario: user2, 5678
+tarefa: Estudar Python
+tarefa: Escrever relatório
